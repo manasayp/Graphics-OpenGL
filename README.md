@@ -32,7 +32,7 @@ An interactive curve design program that allows the user to draw B-spline curves
       9. Draw wireframe surface
       10. Shade surface
       11. Texture surface
-      
+
 4. Recursive Ray Tracing:
 A ray tracing program to generate a creative scene. The ray traced image is saved to a data file for later viewing. Phong lighting model is usedfor computing the basic object color. Ray tracer supports reflection, refraction, and shadow.
 
