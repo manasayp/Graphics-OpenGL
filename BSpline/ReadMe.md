@@ -1,3 +1,3 @@
-![ScreenShot](/Graphics-OpenGL/curve.png)
-![ScreenShot](/Graphics-OpenGL/wireframe.png)
-![ScreenShot](/Graphics-OpenGL/With-Texture.png)
+![ScreenShot](/Graphics-OpenGL/BSpline/curve.png)
+![ScreenShot](/Graphics-OpenGL/BSpline/wireframe.png)
+![ScreenShot](/Graphics-OpenGL/BSpline/With-Texture.png)
